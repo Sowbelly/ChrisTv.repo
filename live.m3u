@@ -1,13 +1,30 @@
 #EXTM3U
 #EXTINF:-1,US: WWE Network HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21064.ts
-#EXTINF:-1,AMC HD
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/847.ts
+#EXTINF:-1,USA AMC
+http://54.37.255.204:9977/live/leon/iptv/35243.ts
 #EXTINF:-1,ME TV
 http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/4768.ts
-#EXTINF:-1,USA:ABC
-http://showsat.hopto.me:9000/live/123456789/1234/17620.ts
-#EXTINF:-1,USA: USA Network HD
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4129.ts
-#EXTINF:-1,USA: WWE HD
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4127.ts
+#EXTINF:-1,USA_ABC
+http://telenetgabes.com:80/live/122800507764/122800507764/6975.ts
+#EXTINF:-1,USA CBS
+http://54.37.255.204:9977/live/leon/iptv/35247.ts
+#EXTINF:-1,USA CW
+http://54.37.255.204:9977/live/leon/iptv/35239.ts
+#EXTINF:-1,USA FOX
+http://54.37.255.204:9977/live/leon/iptv/35236.ts
+#EXTINF:-1,USA NBC
+http://54.37.255.204:9977/live/leon/iptv/35246.ts
+#EXTINF:-1,USA_GRIT-TV
+http://telenetgabes.com:80/live/122800507764/122800507764/6995.ts
+#EXTINF:-1,USA Showtime
+http://54.37.255.204:9977/live/leon/iptv/35225.ts
+#EXTINF:-1,USA: USA NETWORK (G)
+http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/11513.ts
+#EXTINF:-1,USA STARZ ENCORE
+http://54.37.255.204:9977/live/leon/iptv/35220.ts
+#EXTINF:-1,USA SYFY
+http://54.37.255.204:9977/live/leon/iptv/35219.ts
+#EXTINF:-1,USA_HBO
+http://telenetgabes.com:80/live/122800507764/122800507764/7012.ts
+
